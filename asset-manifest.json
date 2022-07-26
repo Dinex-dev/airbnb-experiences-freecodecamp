@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/airbnb-experiences-freecodecamp/static/css/main.be20cc94.css",
+    "main.js": "/airbnb-experiences-freecodecamp/static/js/main.e9bfd2f4.js",
+    "static/js/787.99c597f6.chunk.js": "/airbnb-experiences-freecodecamp/static/js/787.99c597f6.chunk.js",
+    "static/media/Group 77.png": "/airbnb-experiences-freecodecamp/static/media/Group 77.3b2fb312f97235fe4097.png",
+    "static/media/image 12.png": "/airbnb-experiences-freecodecamp/static/media/image 12.0bcbf0bd7b96c297cd60.png",
+    "static/media/wedding-photography 1.png": "/airbnb-experiences-freecodecamp/static/media/wedding-photography 1.97483e1f5e137c10a6dd.png",
+    "static/media/mountain-bike 1.png": "/airbnb-experiences-freecodecamp/static/media/mountain-bike 1.077783ef28c0714265d3.png",
+    "index.html": "/airbnb-experiences-freecodecamp/index.html",
+    "main.be20cc94.css.map": "/airbnb-experiences-freecodecamp/static/css/main.be20cc94.css.map",
+    "main.e9bfd2f4.js.map": "/airbnb-experiences-freecodecamp/static/js/main.e9bfd2f4.js.map",
+    "787.99c597f6.chunk.js.map": "/airbnb-experiences-freecodecamp/static/js/787.99c597f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be20cc94.css",
+    "static/js/main.e9bfd2f4.js"
+  ]
+}
